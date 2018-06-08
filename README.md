@@ -18,15 +18,7 @@ APP主界面为一个TabNavigator，包括两个Tab Scene，每个Scene均为一
 
 ##### 界面展示
 
-![image-20180604222713972](/var/folders/6v/l_j1p_rs1qsb7bgv4pct39jr0000gn/T/abnerworks.Typora/image-20180604222713972.png)
+![img](https://github.com/LastNight1997/Unsplash/raw/master/img/img1.png)
 
-
-
-
-
-
-
-
-
-![image-20180604222900879](/var/folders/6v/l_j1p_rs1qsb7bgv4pct39jr0000gn/T/abnerworks.Typora/image-20180604222900879.png)
+![img](https://github.com/LastNight1997/Unsplash/raw/master/img/img2.png)
 
